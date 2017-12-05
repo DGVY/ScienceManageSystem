@@ -17,5 +17,4 @@ rebel.xml
 *.DS_Store
 static/
 
-
-/JiYuspringbootDeGaoXiaoKeYanGuanLiXiTong/pom.xml
+/JiYuspringbootDeGaoXiaoKeYanGuanLiXiTong/src/main/resources/application.yml
